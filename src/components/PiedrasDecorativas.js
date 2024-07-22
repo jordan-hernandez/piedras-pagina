@@ -133,7 +133,7 @@ const PiedrasDecorativas = () => {
                 <div className="p-6">
                   <h3 className="text-2xl font-semibold mb-3">{piedra.nombre}</h3>
                   <p className="text-gray-600 mb-4">{piedra.descripcion}</p>
-                  <a href="#" className="text-blue-600 font-semibold hover:underline">Más detalles</a>
+                  <a href="#catalogo" className="text-blue-600 font-semibold hover:underline">Más detalles</a>
                 </div>
               </div>
             ))}
