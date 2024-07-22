@@ -86,7 +86,7 @@ const PiedrasDecorativas = () => {
 export default PiedrasDecorativas;
 */
 import React, { useState } from 'react';
-import { ChevronRight, Phone, Mail, MapPin } from 'lucide-react';
+import { Phone, Mail, MapPin } from 'lucide-react';
 import piedra1 from '../images/piedra1.jpg';
 import Banner from './Banner'; // Asegúrate de que la ruta sea correcta
 import piedra2 from '../images/piedra2.jpg';
